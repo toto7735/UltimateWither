@@ -13,7 +13,7 @@ This video uses a plugin made by toto with ❤
 Content & Plugin Idea: toto7735
 Plugin Author: toto7735
 
-Plugin Link: {Plugin Link}
+Plugin Link: https://github.com/toto7735/UltimateWither/releases/tag/1.0.0
 Original Video Link: https://www.youtube.com/watch?v=38YvWruVYuM
 ------------------------------------------------------
 ```
