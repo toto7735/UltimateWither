@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="UltimateWither">
+    <output-path>$PROJECT_DIR$/../../../../OnAIr/plugins</output-path>
+    <root id="archive" name="UltimateWither.jar">
+      <element id="module-output" name="UltimateWither" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
